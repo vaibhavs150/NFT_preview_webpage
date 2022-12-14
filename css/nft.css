@@ -1,0 +1,81 @@
+body{
+background-color: #0d192b;
+font-family: 'Outfit', sans-serif;
+}
+.card{
+    border: 2px solid #14253d;
+    border-radius: 20px;
+    height: 545px;
+    width: 313px;
+    margin: auto;
+    margin-top: 100px;
+    background-color: #14253d;
+}
+#equil{
+    display: block;
+    border-radius: 7px;
+    margin: 21px auto 0 auto;
+    height: 275px;
+    width: 262px;
+}
+#equil:hover{
+    cursor: pointer;
+}
+h2{
+    color: white;
+    font-family: 'Outfit', sans-serif;
+    margin-left: 16px;
+}
+h2:hover{
+    cursor: pointer;
+    color: hsl(215, 51%, 70%);
+}
+p{
+    font-size: 18px;
+    color: hsl(215, 51%, 70%);
+    margin-left: 16px;
+}
+.eter{
+    display: inline-block;
+    margin-left: 16px;
+}
+.clock{
+    float: right;
+}
+.description{
+    display: block;
+    margin-left: 10px;
+}
+h4{
+    float: right;
+    font-size: 15px;
+    margin: 0 0 0 8px;
+    color: hsl(178, 100%, 50%);
+}
+#time{
+    float: right;
+    display: inline;
+    margin: 0 6px 0 8px;
+    font-size: 14px;
+}
+hr{
+    border-top: 1px;
+    margin-top: 23px;
+    color: hsl(215, 32%, 27%);
+    width: 90%;
+}
+#avatar{
+    height: 33px;
+    margin: 1px 0px 0px 25px;
+}
+#avatar-description{
+    margin: -28px 0 0 73px;
+    font-size: 14px;
+}
+span{
+    color: white;
+}
+span:hover{
+    color: hsl(215, 51%, 70%);
+    cursor: pointer;
+}
